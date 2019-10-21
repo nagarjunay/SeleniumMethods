@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24795" started-at="2019-10-18T10:29:57Z" finished-at="2019-10-18T10:30:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24795" started-at="2019-10-18T10:29:57Z" finished-at="2019-10-18T10:30:22Z">
+      <class name="com.test.automation.SeleniumMethods.VerifyDragDrop">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.SeleniumMethods.VerifyDragDrop@77cd7a0]" name="setup" is-config="true" duration-ms="24651" started-at="2019-10-18T10:29:57Z" finished-at="2019-10-18T10:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Verify_dragdrop()[pri:0, instance:com.test.automation.SeleniumMethods.VerifyDragDrop@77cd7a0]" name="Verify_dragdrop" duration-ms="101" started-at="2019-10-18T10:30:22Z" finished-at="2019-10-18T10:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_dragdrop -->
+      </class> <!-- com.test.automation.SeleniumMethods.VerifyDragDrop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
